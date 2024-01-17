@@ -1,4 +1,4 @@
-# Querymen
+! Querymen
 
 [![JS Standard Style][standard-image]][standard-url]
 [![NPM version][npm-image]][npm-url]
@@ -9,7 +9,7 @@
 
 > Querystring parser middleware for MongoDB, Express and Nodejs
 
-## Install
+ # Install
 
 ```sh
 npm install --save querymen
@@ -340,3 +340,4 @@ MIT © [Diego Haz](http://github.com/diegohaz)
 [depstat-image]: https://david-dm.org/diegohaz/querymen.svg?style=flat-square
 
 [download-badge]: http://img.shields.io/npm/dm/querymen.svg?style=flat-square
+ 
