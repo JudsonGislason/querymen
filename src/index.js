@@ -1,4 +1,4 @@
-/** @module querymen */
+/ * @module querymen */
 import _ from 'lodash'
 import Param from './querymen-param'
 import Schema from './querymen-schema'
@@ -119,3 +119,4 @@ export function errorHandler () {
 }
 
 export default { Schema, Param, handlers, handler, parser, formatter, validator, middleware, errorHandler }
+ 
