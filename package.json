@@ -1,5 +1,5 @@
 {
-  "name": "querymen",
+# "name": "querymen",
   "version": "2.1.4",
   "description": "Querystring parser middleware for MongoDB, Express and Nodejs",
   "main": "dist/index.js",
@@ -75,3 +75,4 @@
     "rich-param": "^1.0.1"
   }
 }
+ 
